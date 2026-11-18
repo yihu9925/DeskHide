@@ -1,0 +1,13 @@
+# 构建产物
+DeskHide.exe
+*.o
+build_res.o
+
+# 诊断日志
+*.log
+
+# 编辑器/系统杂物
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
